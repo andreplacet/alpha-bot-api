@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphaBot.API", "AlphaBot.API\AlphaBot.API.csproj", "{5BEF1AC1-5E86-4306-A5B7-D4C44071594A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphaBot.Domain", "AlphaBot.Domain\AlphaBot.Domain.csproj", "{A1DDE36C-0C72-4525-9397-63CC00F5D7EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphaBot.Infrasctructure", "AlphaBot.Infrasctructure\AlphaBot.Infrasctructure.csproj", "{D7CAD8EE-A2B8-462A-BFD4-D0D957A90AE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BEF1AC1-5E86-4306-A5B7-D4C44071594A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BEF1AC1-5E86-4306-A5B7-D4C44071594A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BEF1AC1-5E86-4306-A5B7-D4C44071594A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BEF1AC1-5E86-4306-A5B7-D4C44071594A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1DDE36C-0C72-4525-9397-63CC00F5D7EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1DDE36C-0C72-4525-9397-63CC00F5D7EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1DDE36C-0C72-4525-9397-63CC00F5D7EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1DDE36C-0C72-4525-9397-63CC00F5D7EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7CAD8EE-A2B8-462A-BFD4-D0D957A90AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7CAD8EE-A2B8-462A-BFD4-D0D957A90AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7CAD8EE-A2B8-462A-BFD4-D0D957A90AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7CAD8EE-A2B8-462A-BFD4-D0D957A90AE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
